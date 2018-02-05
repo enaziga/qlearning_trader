@@ -1,7 +1,3 @@
-"""
-Template for implementing StrategyLearner  (c) 2016 Tucker Balch
-"""
-
 import datetime as dt
 import QLearner as ql
 import pandas as pd
